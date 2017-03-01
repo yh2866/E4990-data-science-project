@@ -10,8 +10,10 @@ Inspired by the game ['Machine Learning and Cats'](http://www.atlasobscura.com/a
 
 
 <figure>
+<p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/machine_learning_cats.png?raw=true" width="50%"/>
 <figcaption>My caption</figcaption>
+</p>
 </figure>
 
 
