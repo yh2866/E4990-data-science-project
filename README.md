@@ -89,4 +89,5 @@ We decide to finish core algorithms in Python at first. And then we may build a 
 
 
 ## Reference
-- ['CS231n Convolutional Neural Networks for Visual Recognition'](http://cs231n.github.io/convolutional-networks/#architectures)
+- [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/#architectures)
+- [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
