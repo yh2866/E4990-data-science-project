@@ -61,6 +61,11 @@ Our intention is to provide a novel artistic painting tool that allows everyone 
 Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
 ### Algorithms
 
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="20%"/>
+</p>
+
+
 ### Interface
 
 ### 
