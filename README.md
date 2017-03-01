@@ -24,3 +24,18 @@ In this paper, a kind of deep neural network was provided and successful blend t
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/hoover_tower_night.jpg" height="223px">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_stanford_bigger.png" width="710px">
 </p>
+
+
+**Subject**
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/subject.jpg?raw=true" width="20%"/>
+</p>
+
+**Styles**
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_b.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_c.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_d.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_e.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_f.png?raw=true" width="18%"/>
+</p>
