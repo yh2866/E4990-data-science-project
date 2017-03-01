@@ -1,7 +1,7 @@
 # Image Style Blending with Convolutional Neural Network
 Project for E4990 Introduction to Data Science Industry
 ### Team Members: Yuanqing Hong, Claire Lee, Weiyi Li
-#### Role: Leader-  ; Researcher-  ; Writer-
+#### Role: ???
 ### Tools: Python, Tensor Flow, Jupiterbook
 
 ## Motivation
@@ -12,7 +12,7 @@ Inspired by the game ['Machine Learning and Cats'](http://www.atlasobscura.com/a
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/machine_learning_cats.png?raw=true" width="50%"/>
 </p>  
 <p align="center">
-[1].Example of machine learning for cats
+Fig.1. Example of machine learning for cats
 <a href="http://www.atlasobscura.com/articles/cat-computer-program-drawing?utm_source=facebook.com&utm_medium=atlas-page">(Reference)</a>
 </p>
 
@@ -32,7 +32,7 @@ Here is the related paper we found:
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_stanford_bigger.png" width="710px">  
 </p>
 <p align="center">
-[2].Image blending result
+Fig.2. Image blending result
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
@@ -63,7 +63,7 @@ In these paper, a kind of deep neural network was provided and successfully blen
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_f.png?raw=true" width="18%"/>
 </p>
 <p align="center">
-[2].The Reuslt for Several Different Sytle
+Fig.3. The Reuslt for Several Different Sytle
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
@@ -80,10 +80,13 @@ Specifically, it will help painters to inspire their talent and bring a great co
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-[2].The Reuslt for Several Different Sytle
+Fig.4. The Reuslt for Several Different Sytle
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
 ### Interface
+We decide to finish core algorithms in Python at first. And then we may build a website to let user to upload their pictures to generate the blended pictures if time permitted. But there have some problems. Such as how to build a website, how to run the Python script behind the web. These problems need to be solved. 
 
-### 
+
+## Reference
+- ['CS231n Convolutional Neural Networks for Visual Recognition'](http://cs231n.github.io/convolutional-networks/#architectures)
