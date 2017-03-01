@@ -57,7 +57,8 @@ In these paper, a kind of deep neural network was provided and successfully blen
 ### Project description
 
 ### Audience
-
+Our intention is to provide a novel artistic painting tool that allows everyone to create their own artistic pictures.
+Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
 ### Algorithms
 
 ### Interface
