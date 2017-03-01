@@ -23,6 +23,7 @@ Here is the related paper we found:
 - [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf)
 - [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://arxiv.org/pdf/1601.04589.pdf)
+- [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)
 
 [](Comment In this paper, a kind of deep neural network was provided and successful blend the object with an artistic sytle.  )
 
