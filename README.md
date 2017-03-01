@@ -39,3 +39,12 @@ In this paper, a kind of deep neural network was provided and successful blend t
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_e.png?raw=true" width="18%"/>
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_f.png?raw=true" width="18%"/>
 </p>
+
+**Outputs**
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_b.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_c.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_d.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_e.png?raw=true" width="18%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_f.png?raw=true" width="18%"/>
+</p>
