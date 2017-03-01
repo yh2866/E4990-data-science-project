@@ -62,7 +62,7 @@ Specifically, it will help painters to inspire their talent and bring a great co
 ### Algorithms
 
 <p align="center">
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="100%"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 
 
