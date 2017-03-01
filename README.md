@@ -26,8 +26,11 @@ In these paper, a kind of deep neural network was provided and successfully blen
 
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/subject.jpg?raw=true" width="20%"/>
-</p>
+
 <em>Building</em>
+
+</p>
+
 
 **Styles**
 <p align="center">
