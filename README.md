@@ -15,5 +15,5 @@ Inspired by the game ['Machine Learning and Cats'](http://www.atlasobscura.com/a
 After a lot of research, we finally found this is based on an algorithm for combining the content of one image with the style of another image using convolutional neural networks.
 
 Here is the related paper we found:
-[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
-
+- [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+- [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf)
