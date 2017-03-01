@@ -21,7 +21,11 @@ Here is the related paper we found:
 
 [](Comment In this paper, a kind of deep neural network was provided and successful blend the object with an artistic sytle.  )
 
-<p align="center"> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_night.jpg" height="223px"> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/hoover_tower_night.jpg" height="223px">  <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_stanford_bigger.png" width="710px">  </p>
+<p align="center"> 
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_night.jpg" height="223px"> 
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/hoover_tower_night.jpg" height="223px">  
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_stanford_bigger.png" width="710px">  
+</p>
 
 
 In these paper, a kind of deep neural network was provided and successfully blent the object with an artistic sytle. An illustration is provided, in this example, a building is blend with several styles and generated blended images. In this way, we can blend any subject with artistic styles to get a artistic painting.
