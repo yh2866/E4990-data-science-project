@@ -28,8 +28,8 @@ Here is the related paper we found:
 
 
 <p align="center"> 
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_1.png" width="48%"> 
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_2.png" width="48%"> 
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_1.png" width="49%"> 
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_2.png" width="47.5%"> 
 </p>
 <p align="center">
 Fig.2. Image blending result
