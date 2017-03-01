@@ -8,9 +8,12 @@ Project for E4990 Introduction to Data Science Industry
 
 Inspired by the game ['Machine Learning and Cats'](http://www.atlasobscura.com/articles/cat-computer-program-drawing?utm_source=facebook.com&utm_medium=atlas-page) provided by Dr. Goldman, we were tring to figure out the mechanism behind it.
 
-
 <p align="center">
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/machine_learning_cats.png?raw=true" width="50%" title="Kookburra"/>
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/machine_learning_cats.png?raw=true" width="50%"/>
+</p>  
+<p align="center">
+[1].Example of machine learning for cats
+<a href="http://www.atlasobscura.com/articles/cat-computer-program-drawing?utm_source=facebook.com&utm_medium=atlas-page">(Reference)</a>
 </p>
 
 
@@ -28,7 +31,10 @@ Here is the related paper we found:
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/hoover_tower_night.jpg" height="223px">  
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_stanford_bigger.png" width="710px">  
 </p>
-
+<p align="center">
+[2].Image blending result
+<a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
+</p>
 
 In these paper, a kind of deep neural network was provided and successfully blent the object with an artistic sytle. An illustration is provided, in this example, a building is blend with several styles and generated blended images. In this way, we can blend any subject with artistic styles to get a artistic painting.
 
@@ -56,7 +62,10 @@ In these paper, a kind of deep neural network was provided and successfully blen
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_e.png?raw=true" width="18%"/>
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_f.png?raw=true" width="18%"/>
 </p>
-
+<p align="center">
+[2].The Reuslt for Several Different Sytle
+<a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
+</p>
 
 ## Goals
 
@@ -70,7 +79,10 @@ Specifically, it will help painters to inspire their talent and bring a great co
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
-
+<p align="center">
+[2].The Reuslt for Several Different Sytle
+<a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
+</p>
 
 ### Interface
 
