@@ -17,3 +17,6 @@ After a lot of research, we finally found this is based on an algorithm for comb
 Here is the related paper we found:
 - [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf)
+
+In this paper, a kind of deep neural network was provided and successful blend the object with an artistic sytle.
+
