@@ -23,10 +23,11 @@ Here is the related paper we found:
 In these paper, a kind of deep neural network was provided and successfully blent the object with an artistic sytle. An illustration is provided, in this example, a building is blend with several styles and generated blended images. In this way, we can blend any subject with artistic styles to get a artistic painting.
 
 **Subject**
+
 <p align="center">
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/subject.jpg?raw=true" width="20%"/>
+![Building]<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/subject.jpg?raw=true" width="20%"/>
 </p>
-<table class="Building">
+
 
 **Styles**
 <p align="center">
