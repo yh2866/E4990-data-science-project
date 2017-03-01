@@ -28,9 +28,8 @@ Here is the related paper we found:
 
 
 <p align="center"> 
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_night.jpg" height="223px"> 
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/hoover_tower_night.jpg" height="223px">  
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_stanford_bigger.png" width="710px">  
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_1.png" width="48%"> 
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_2.png" width="48%"> 
 </p>
 <p align="center">
 Fig.2. Image blending result
