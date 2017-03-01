@@ -4,7 +4,7 @@ Project for E4990 Introduction to Data Science Industry
 #### Role: Leader-  ; Researcher-  ; Writer-
 ### Tools: Python, Tensor Flow, Jupiterbook
 
-## Previous Work
+## Motivation
 
 Inspired by the game ['Machine Learning and Cats'](http://www.atlasobscura.com/articles/cat-computer-program-drawing?utm_source=facebook.com&utm_medium=atlas-page) provided by Prof. Goldman, we were tring to figure out the mechanism behind it.
 
