@@ -25,7 +25,7 @@ Here is the related paper we found:
 - [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis](https://arxiv.org/pdf/1601.04589.pdf)
 - [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)
 
-[](Comment In this paper, a kind of deep neural network was provided and successful blend the object with an artistic sytle.  )
+
 
 <p align="center"> 
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/starry_night.jpg" height="223px"> 
@@ -39,34 +39,13 @@ Fig.2. Image blending result
 
 In these paper, a kind of deep neural network was provided and successfully blent the object with an artistic sytle. An illustration is provided, in this example, a building is blend with several styles and generated blended images. In this way, we can blend any subject with artistic styles to get a artistic painting.
 
-**Subject**
-
-<p align="center">
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/subject.jpg?raw=true" width="20%"/>
-</p>
+[](Comment In this paper, a kind of deep neural network was provided and successful blend the object with an artistic sytle.  **Subject** <p align="center"> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/subject.jpg?raw=true" width="20%"/> </p> **Styles** <p align="center"> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_b.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_c.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_d.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_e.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_f.png?raw=true" width="18%"/> </p> **Outputs** <p align="center"> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_b.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_c.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_d.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_e.png?raw=true" width="18%"/> <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_f.png?raw=true" width="18%"/> </p> <p align="center"> Fig.3. The Reuslt for Several Different Sytle <a href="https://arxiv.org/abs/1508.06576">(Reference)</a> </p>)
 
 
-**Styles**
-<p align="center">
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_b.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_c.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_d.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_e.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/style_f.png?raw=true" width="18%"/>
-</p>
 
-**Outputs**
-<p align="center">
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_b.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_c.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_d.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_e.png?raw=true" width="18%"/>
-<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_f.png?raw=true" width="18%"/>
-</p>
-<p align="center">
-Fig.3. The Reuslt for Several Different Sytle
-<a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
-</p>
+
+
+
 
 ## Goals
 
