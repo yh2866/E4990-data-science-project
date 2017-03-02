@@ -76,7 +76,7 @@ Fig.4. Convolution Demo
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-Fig.5. The Reuslt for Several Different Sytle
+Fig.5. Five Layers Presented in Paper
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
