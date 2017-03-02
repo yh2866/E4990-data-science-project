@@ -45,8 +45,6 @@ In these paper, a kind of deep neural network was provided and successfully blen
 ## Goals
 
 ### Project description
-
-### Audience
 Our intention is to provide a novel artistic painting tool that allows everyone to create their own artistic pictures.
 Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
 ### Algorithms
@@ -80,7 +78,7 @@ Fig.5. Convolution Demo
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
-The above explaination is fouces on 3-layer conventional network, however, in the paper, it presented a 5-layer conventional network to improve their performance.
+The above explaination is fouces on 3-layer conventional network, however, in the paper, it presented a 5-layer conventional network to improve performance.
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
