@@ -60,23 +60,32 @@ Fig.3. Neurons of A Convolutional Layer
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">(Reference)</a>
 </p>
 
-The convolutional layer is the core building block of a CNN. The layer's parameters consist of a set of learnable filters (or kernels), which have a small receptive field, but extend through the full depth of the input volume.
+The convolutional layer is the core building block of a CNN. The layer's parameters consist of a set of learnable filters, which have a small receptive field, but extend through the full depth of the input volume.
 
+Here is a regular 3-layer Neural Network. A convolutional network arranges its neurons in three dimensions (width, height, depth), as visualized in one of the layers.
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/three_layer.png" width="60%"/>
+</p>
+<p align="center">
+Fig.4. A 3-layer Neural Network
+<a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
+</p>
 
+Below is a running demo of a CONV layer. The visualization below iterates over the output activations (green), and shows that each element is computed by elementwise multiplying the highlighted input (blue) with the filter (red), summing it up, and then offsetting the result by the bias.
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/recording.gif" width="60%"/>
 </p>
 <p align="center">
-Fig.4. Convolution Demo
+Fig.5. Convolution Demo
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
-
+The above explaination is fouces on 3-layer conventional network, however, in the paper, it presented a 5-layer conventional network to improve their performance.
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-Fig.5. Five Layers Presented in Paper
+Fig.6. Five Layers Presented in Paper
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
