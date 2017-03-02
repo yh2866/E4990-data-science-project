@@ -42,10 +42,6 @@ In these paper, a kind of deep neural network was provided and successfully blen
 
 
 
-
-
-
-
 ## Goals
 
 ### Project description
@@ -54,12 +50,33 @@ In these paper, a kind of deep neural network was provided and successfully blen
 Our intention is to provide a novel artistic painting tool that allows everyone to create their own artistic pictures.
 Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
 ### Algorithms
+In this project, we decide to use Convolutional Neural Networks(CNN) to process images. Convolutional neural network is a type of feed-forward artificial neural network, which are made up of neurons that have learnable weights and biases. Convolutional networks have a bunch of application in the field of image reconization bacause convolutional network architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture.
+
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/conv_layer.png" width="30%"/>
+</p>
+<p align="center">
+Fig.3. Neurons of A Convolutional Layer
+<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">(Reference)</a>
+</p>
+
+The convolutional layer is the core building block of a CNN. The layer's parameters consist of a set of learnable filters (or kernels), which have a small receptive field, but extend through the full depth of the input volume.
+
+
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/recording.gif" width="60%"/>
+</p>
+<p align="center">
+Fig.4. Convolution Demo
+<a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
+</p>
+
 
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-Fig.4. The Reuslt for Several Different Sytle
+Fig.5. The Reuslt for Several Different Sytle
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
