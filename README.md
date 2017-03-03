@@ -1,8 +1,8 @@
 # Image Style Blending with Convolutional Neural Network
 Project for E4990 Introduction to Data Science Industry
 ### Team Members: Yuanqing Hong, Claire Lee, Weiyi Li
-#### Role: ???
-### Tools: Python, Tensor Flow, Jupiterbook
+#### Role: Leader(Yuanqing Hong), Mathematical Part(Claire Lee), Programming Part(Weiyi Li)
+### Tools: Python, Tensor Flow, Jupiterbook, [Flask](http://flask.pocoo.org/)
 
 ## Motivation
 
@@ -12,7 +12,7 @@ Inspired by the game ['Machine Learning and Cats'](http://www.atlasobscura.com/a
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/machine_learning_cats.png?raw=true" width="50%"/>
 </p>  
 <p align="center">
-Fig.1. Example of machine learning for cats
+Fig.1. An example of machine learning for cats
 <a href="http://www.atlasobscura.com/articles/cat-computer-program-drawing?utm_source=facebook.com&utm_medium=atlas-page">(Reference)</a>
 </p>
 
@@ -32,7 +32,7 @@ Here is the related paper we found:
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/blending_2.png" width="47.5%"> 
 </p>
 <p align="center">
-Fig.2. Image blending result
+Fig.2. Blending results from paper
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
@@ -54,7 +54,7 @@ In this project, we decide to use Convolutional Neural Networks(CNN) to process 
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/conv_layer.png" width="30%"/>
 </p>
 <p align="center">
-Fig.3. Neurons of A Convolutional Layer
+Fig.3. Neurons of a convolutional layer
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">(Reference)</a>
 </p>
 
@@ -65,7 +65,7 @@ Here is a regular 3-layer Neural Network. A convolutional network arranges its n
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/three_layer.png" width="60%"/>
 </p>
 <p align="center">
-Fig.4. A 3-layer Neural Network
+Fig.4. A 3-layer neural network
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
@@ -74,7 +74,7 @@ Below is a running demo of a CONV layer. The visualization below iterates over t
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/recording.gif" width="60%"/>
 </p>
 <p align="center">
-Fig.5. Convolution Demo
+Fig.5. Convolution demo
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
@@ -83,7 +83,7 @@ The above explaination is fouces on 3-layer conventional network, however, in th
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-Fig.6. Five Layers Presented in Paper
+Fig.6. Five-layers neural network presented in paper
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
