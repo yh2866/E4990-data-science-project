@@ -1,4 +1,4 @@
-# Image Style Blending with Convolutional Neural Network
+# Image Style Transfer using Convolutional Neural Networks
 Project for E4990 Introduction to Data Science Industry
 ### Team Members: Yuanqing Hong, Claire Lee, Weiyi Li
 #### Role: Leader(Yuanqing Hong), Mathematical Part(Claire Lee), Programming Part(Weiyi Li)
@@ -94,3 +94,4 @@ We decide to finish core algorithms in Python at first. And then we may build a 
 ## Reference
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/#architectures)
 - [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+- [Convolutional Neural Networks + Neural Style Transfer](http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf)
