@@ -45,6 +45,15 @@ In these paper, a kind of deep neural network was provided and successfully blen
 ## Goals
 
 ### Project description
+
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/description.png" width="80%"/>
+</p>
+<p align="center">
+Fig.3. Content + Style = Result
+<a href="http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf">(Reference)</a>
+</p>
+
 Our intention is to provide a novel artistic painting tool that allows everyone to create their own artistic pictures.
 Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
 ### Algorithms
@@ -54,7 +63,7 @@ In this project, we decide to use Convolutional Neural Networks(CNN) to process 
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/conv_layer.png" width="30%"/>
 </p>
 <p align="center">
-Fig.3. Neurons of a convolutional layer
+Fig.4. Neurons of a convolutional layer
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">(Reference)</a>
 </p>
 
@@ -65,7 +74,7 @@ Here is a regular 3-layer Neural Network. A convolutional network arranges its n
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/three_layer.png" width="60%"/>
 </p>
 <p align="center">
-Fig.4. A 3-layer neural network
+Fig.5. A 3-layer neural network
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
@@ -74,7 +83,7 @@ Below is a running demo of a CONV layer. The visualization below iterates over t
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/recording.gif" width="60%"/>
 </p>
 <p align="center">
-Fig.5. Convolution demo
+Fig.6. Convolution demo
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
@@ -83,7 +92,7 @@ The above explaination is fouces on 3-layer conventional network, however, in th
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-Fig.6. Five-layers neural network presented in paper
+Fig.7. Five-layers neural network presented in paper
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
