@@ -42,6 +42,9 @@ In these paper, a kind of deep neural network was provided and successfully blen
 
 
 
+
+
+
 ## Goals
 
 ### Project description
@@ -54,8 +57,10 @@ Fig.3. Content + Style = Result
 <a href="http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf">(Reference)</a>
 </p>
 
+### Audience
 Our intention is to provide a novel artistic painting tool that allows everyone to create their own artistic pictures.
 Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
+
 ### Algorithms
 In this project, we decide to use Convolutional Neural Networks(CNN) to process images. Convolutional neural network is a type of feed-forward artificial neural network, which are made up of neurons that have learnable weights and biases. Convolutional networks have a bunch of application in the field of image reconization bacause convolutional network architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture.
 
