@@ -45,7 +45,7 @@ In these paper, a kind of deep neural network was provided and successfully blen
 ## Goals
 
 ### Project description
-
+#### key words: Deep Learning, Convolutional Neural Networkds, Image Synthesis
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/description.png" width="80%"/>
 </p>
