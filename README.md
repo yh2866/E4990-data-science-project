@@ -129,3 +129,4 @@ We decide to finish core algorithms in Python at first. And then we may build a 
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/#architectures)
 - [ConvNetJS CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 - [Convolutional Neural Networks + Neural Style Transfer](http://web.stanford.edu/class/cs20si/lectures/slides_06.pdf)
+- [A Neural Network](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=5,5,4,8,2&seed=0.97578&showTestData=false&discretize=false&percTrainData=50&x=false&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
