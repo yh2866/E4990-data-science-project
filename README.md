@@ -62,13 +62,25 @@ Our intention is to provide a novel artistic painting tool that allows everyone 
 Specifically, it will help painters to inspire their talent and bring a great convenience for illustrators to create illustrations.
 
 ### Algorithms
+
+<p align="center">
+<img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/MachineLearningMethodsGraph.jpg" width="80%"/>
+</p>
+<p align="center">
+Fig.4. Methods graph in machine learning
+<a href="https://github.com/Columbia-Intro-Data-Science/APMAE4990-/blob/master/pdfs/MachineLearningMethodsGraph.pdf">(Reference)</a>
+</p>
+
 In this project, we decide to use Convolutional Neural Networks(CNN) to process images. Convolutional neural network is a type of feed-forward artificial neural network, which are made up of neurons that have learnable weights and biases. Convolutional networks have a bunch of application in the field of image reconization bacause convolutional network architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture.
+
+
+
 
 <p align="center">
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/conv_layer.png" width="30%"/>
 </p>
 <p align="center">
-Fig.4. Neurons of a convolutional layer
+Fig.5. Neurons of a convolutional layer
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">(Reference)</a>
 </p>
 
@@ -79,7 +91,7 @@ Here is a regular 3-layer Neural Network. A convolutional network arranges its n
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/three_layer.png" width="60%"/>
 </p>
 <p align="center">
-Fig.5. A 3-layer neural network
+Fig.6. A 3-layer neural network
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
@@ -88,7 +100,7 @@ Below is a running demo of a CONV layer. The visualization below iterates over t
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/recording.gif" width="60%"/>
 </p>
 <p align="center">
-Fig.6. Convolution demo
+Fig.7. Convolution demo
 <a href="http://cs231n.github.io/convolutional-networks/#architectures">(Reference)</a>
 </p>
 
@@ -97,7 +109,7 @@ The above explaination is fouces on 3-layer conventional network, however, in th
 <img src="https://github.com/yh2866/E4990-data-science-project/blob/master/images/reconstruction_algorithm.png?raw=true" width="60%"/>
 </p>
 <p align="center">
-Fig.7. Five-layers neural network presented in paper
+Fig.8. Five-layers neural network presented in paper
 <a href="https://arxiv.org/abs/1508.06576">(Reference)</a>
 </p>
 
