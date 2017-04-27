@@ -7,7 +7,7 @@
       $.getJSON($SCRIPT_ROOT + '/report', {
         a: $('input[name="a"]').val(),
         b: $('input[name="b"]').val(),
-        c: $('input[name="c"]').val()
+
       }, function(data) {
         $('#result').html(data.result);
         $('input[name=a]').focus().select();
@@ -32,8 +32,6 @@
   Day: <input type="text" size="5" name="a"> ('0': Mon, '1': Tue, '2': Wed, '3': Thur, '4': Fri, '5': Sat, '6': Sun)
   <br>
   Time:<input type="text" size="5" name="b"> ('0': midnight~6am, '1': 6am~12pm, '2': 12pm~6pm, '3': 6pm~midnight)
-  <br>
-  PCT: <input type='text' size="5" name="c">
   <br>
   <span id="result"></span>
 <p><a href=# id="calculate">Get Report</a>
