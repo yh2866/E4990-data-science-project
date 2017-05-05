@@ -663,8 +663,6 @@ def add_numbers():
     b = request.args.get('b', 0, type=int)
     re = ""
     for i in Dict[(a,b)]:
-        print i
-        print i[0]
         if i[1] == 1:
             p01 = i[0]/2
         if i[1] == 5:
