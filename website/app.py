@@ -665,15 +665,53 @@ def add_numbers():
     for i in Dict[(a,b)]:
         print i
         print i[0]
+        if i[1] == 1:
+            p01 = i[0]/2
         if i[1] == 5:
             p05 = i[0]/2
+        if i[1] == 6:
+            p06 = i[0]/2
+        if i[1] == 7:
+            p07 = i[0]/2
+        if i[1] == 9:
+            p09 = i[0]/2
+        if i[1] == 10:
+            p10 = i[0]/2
+        if i[1] == 13:
+            p13 = i[0]/2
+        if i[1] == 14:
+            p14 = i[0]/2
+        if i[1] == 17:
+            p17 = i[0]/2
+        if i[1] == 18:
+            p18 = i[0]/2
+        if i[1] == 19:
+            p19 = i[0]/2
+        if i[1] == 20:
+            p20 = i[0]/2
+        if i[1] == 22:
+            p22 = i[0]/2
+        if i[1] == 23:
+            p23 = i[0]/2
+        if i[1] == 24:
+            p24 = i[0]/2
+        if i[1] == 25:
+            p25 = i[0]/2
+        if i[1] == 26:
+            p26 = i[0]/2
+        if i[1] == 28:
+            p28 = i[0]/2
+        if i[1] == 30:
+            p30 = i[0]/2
+        if i[1] == 32:
+            p32 = i[0]/2
         if i[1] == 33:
             p33 = i[0]/2
         if i[1] == 34:
             p34 = i[0]/2
         re += "The precinct No."+ str(i[1]) + " will have "+ str(i[0]) + " frequency.<br>"        
 
-    return jsonify(result=re, pp05=p05, pp33=p33, pp34=p34)
+    return jsonify(result=re, pp01=p01, pp05=p05, pp06=p06, pp07=p07, pp09=p09, pp10=p10, pp13=p13, pp14=p14, pp17=p17, pp18=p18, pp19=p19, pp20=p20, pp22=p22, pp23=p23, pp24=p24, pp25=p25, pp26=p26, pp28=p28, pp30=p30, pp32=p32, pp33=p33, pp34=p34)
 
 
 @app.route('/')
