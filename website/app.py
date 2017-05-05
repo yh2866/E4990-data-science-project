@@ -663,8 +663,17 @@ def add_numbers():
     b = request.args.get('b', 0, type=int)
     re = ""
     for i in Dict[(a,b)]:
-        re += "The precinct No."+ str(i[1]) + " will have "+ str(i[0]) + " frequency.<br>"
-    return jsonify(result=re)
+        print i
+        print i[0]
+        if i[1] == 5:
+            p05 = i[0]/2
+        if i[1] == 33:
+            p33 = i[0]/2
+        if i[1] == 34:
+            p34 = i[0]/2
+        re += "The precinct No."+ str(i[1]) + " will have "+ str(i[0]) + " frequency.<br>"        
+
+    return jsonify(result=re, pp05=p05, pp33=p33, pp34=p34)
 
 
 @app.route('/')
