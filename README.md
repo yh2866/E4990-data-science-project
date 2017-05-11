@@ -1,4 +1,3 @@
-## E4990-data-science-project
 ## Crime Frequency Prediction
 
 
