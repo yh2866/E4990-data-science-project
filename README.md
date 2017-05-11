@@ -1,5 +1,4 @@
 # E4990-data-science-project
-Project for E4990 Introduction to Data Science Industry
 
 ### Team Members: Yuanqing Hong, Weiyi Li, Claire Lee
 
